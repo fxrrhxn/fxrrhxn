@@ -21,6 +21,6 @@
 
 ## 📫 Contact
 
-For a Quick Response, DM me on X. For more Queries you can reach out to me through my Email.
+For more Queries you can reach out to me through my Email.
 
 [![Email](images/gmail.png)](mailto:fxrrhxn@gmail.com "Email")
