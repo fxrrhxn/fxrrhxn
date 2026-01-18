@@ -1,26 +1,54 @@
-### Hey! I'm Farhan 👋🏼
+# Farhan Bhat
 
-- I'm a 22-year-old developer & student based in Kashmir. I'm passionate about Web Development, iOS Development, Artificial Intelligence & Machine Learning, and everything else related to Tech.
+Founder & CEO — **Perceptive Co.**
 
-## 📦 Toolbox:
+I design and engineer **high-performance digital systems** for brands that take growth seriously.
 
-- Languages:
-  `Python` `C++`
-- Currently Learning :`Java`
-- Version Control:
-  `Git` `Github`
-- Libraries:
-  `Tkinter` `Pygame`
-- Frameworks:
-  `None`
+I’m the founder of **Perceptive Co.**, a performance marketing and high-end website creation agency where strategy, engineering, and analytics intersect. My work focuses on building fast, scalable, conversion-driven platforms backed by clean architecture and measurable outcomes.
 
-## 👀 Fun Facts
+---
 
-- My favourite fictional characters are Deadpool, Batman & Harry Potter.
-- My favourite sports are Formula 1 & MotoGP.
+## What I Work On
 
-## 📫 Contact
+- I lead a team at **Perceptive Co.** that focuses on & provides the following services:
 
-For more Queries you can reach out to me through my Email.
+### Performance-Driven Web Systems
 
-[![Email](images/gmail.png)](mailto:fxrrhxn@gmail.com "Email")
+- Modern frontend & full-stack Web Applications
+- Scalable deployments
+- SEO-ready, analytics-first builds
+- Conversion-optimized UX with minimal design debt
+
+### Growth & Marketing Infrastructure
+
+- Paid acquisition systems (Meta & Google Ads)
+- Funnel architecture & tracking
+- Event-based analytics (GA4)
+- Performance iteration through data, not assumptions
+
+### Brand Engineering
+
+- Technical brand positioning
+- Design systems with consistency & intent
+- Digital experiences that reflect credibility and authority
+
+---
+
+## Operating Principles
+
+- Performance over aesthetics
+- Systems over shortcuts
+- Data over opinions
+- Long-term brand equity over short-term wins
+
+> If it doesn’t scale, it doesn’t ship.
+
+---
+
+## Connect
+
+- Visit our Website: **https://www.prcptiv.com**
+- Instagram: **@prcptiv** | **@fxrrhxn**
+- X (Twitter): **@prcptiv** | **@fxrrhxn**
+
+I’m interested in building systems that **last**, not just launch.
